@@ -1,0 +1,23 @@
+{
+  "name": "adivinaelopening",
+  "version": "1.0.0",
+  "description": "Bot de Discord para jugar al minijuego adivina el opening",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlete24/AdivinaElOpening.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlete24/AdivinaElOpening/issues"
+  },
+  "homepage": "https://github.com/carlete24/AdivinaElOpening#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
